@@ -1,0 +1,23 @@
+.inputs {
+    display: inline;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    right: 50%;
+}
+
+#note {
+    display: block;
+    resize: horizontal;
+    width: 200px;
+    height: 200px;
+}
+
+#date {
+    resize: horizontal;
+    width: 50px;
+}
+
+#stick {
+    
+}
