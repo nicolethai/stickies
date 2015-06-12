@@ -1,6 +1,7 @@
 body {
     font-family: 'Indie Flower', cursive;
 }
+
 .inputs {
     display: inline;
     /*position: absolute;*/
@@ -10,6 +11,7 @@ body {
 }
 
 #note {
+    font-family: 'Indie Flower', cursive;
     display: block;
     resize: horizontal;
     width: 200px;
@@ -23,4 +25,8 @@ body {
 
 #stick {
     
+}
+
+#notes {
+    width: 200px;
 }
