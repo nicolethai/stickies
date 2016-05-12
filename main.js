@@ -1,4 +1,8 @@
 var myDataRef = new Firebase('https://eq4vxp0rje5.firebaseio-demo.com/');
+/*
+    WHY DIS NO SHOW?
+*/
+
 var stickButton = document.getElementById('stick');
 var notes = document.getElementById('notes');
 
